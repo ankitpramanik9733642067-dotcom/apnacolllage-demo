@@ -1,4 +1,4 @@
-# apnacolllage-demo
+# apnacollage-demo
 This is my first Git Repository.
 <br>
 
